@@ -6,7 +6,7 @@
 	$login_valido = !$login == '';
 	$senha_valida = !$senha == '';
 
-	$conexao = new mysqli("localhost", "u533776325_app", "senhaVirtualFit(14)", "u533776325_vifit");
+	$conexao = new mysqli("sql10.freemysqlhosting.net", "sql10207800", "AkAl8SYU5k", "sql10207800");
 
 	if($conexao->connect_errno){
 		echo json_encode(array('ERROR_CODE' => 101, 'ERROR_MESSAGE' => 'Banco de dados fora do ar'));
