@@ -10,7 +10,7 @@ Java (JFrame e JPA) e PHP (Webservice)
 
 * [Java](https://netbeans.org/downloads/) - Linguagem para Front-end e ORM
 * [PHP](https://secure.php.net/manual/pt_BR/intro-whatis.php) - Linguagem para Back-end
-* [MySQL](https://www.mysql.com/) - Linguagem para Banco de Dados
+* [SQL](https://www.mysql.com/) - Linguagem para Banco de Dados
 * [Amor](http://2.bp.blogspot.com/-b_sT7_AlFEA/VI0Ctu3c-YI/AAAAAAAA0Yg/UFvYvtaIxgY/s1600/steve-jobs-unica-mneira-bom-trabalho.jpg) - Clique e descubra porquê
 
 ## Autores
@@ -18,6 +18,7 @@ Java (JFrame e JPA) e PHP (Webservice)
 * **Guilherme Golfetto** - *RA: 2215100273* - [GolfettoGuilherme](https://github.com/GolfettoGuilherme)
 * **Vinicius Franca** - *RA: 2215100273* - [GolfettoGuilherme](https://github.com/GolfettoGuilherme)
 * **Mateus Guedes** - *RA: 2215100273* - [GolfettoGuilherme](https://github.com/GolfettoGuilherme)
+* **Aguardo nomes e RA's** - *RA: 2215100273* - [GolfettoGuilherme](https://github.com/GolfettoGuilherme)
 
 ## License
 
@@ -25,6 +26,5 @@ This project is licensed under the MIT License
 
 ## Conhecimentos
 
-* Hat tip to anyone who's code was used
-* Inspiration
+* Fernanda, pense em algo para colocar aqui
 * etc
