@@ -22,6 +22,13 @@ public class tbExerciciosDAL {
         return dto.getId();
     }
     
+    public void excluirTodosDoAluno(int idAluno){
+        List<TbExercicios> lista = this.buscarExercicios(idAluno);
+        for(TbExercicios ex : lista){
+            this.excluir(ex);
+        }
+    }
+    
     public void excluir(TbExercicios dto){
         EntityManager em = getEM();
         em.getTransaction().begin();
